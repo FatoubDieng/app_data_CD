@@ -11,4 +11,3 @@ def afficher_formulaire():
             f.write(f"{nom},{note},{commentaire}\n")
         st.success("Merci pour votre retour !")
     
-    
